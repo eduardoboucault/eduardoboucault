@@ -10,14 +10,10 @@ Meus projetos principais:
 
 Em meu perfil no Github, você encontrará projetos em que trabalhei, tanto em equipe quanto individualmente, utilizando tecnologias como JavaScript, React, Node.js, Knex e SQLite3. Estou sempre buscando aprimorar minhas habilidades técnicas e comportamentais, e me mantenho atualizado com as mais recentes tendências de mercado.
 
-https://github.com/eduardoboucault/projeto-react-api
+https://github.com/eduardoboucault/project-react-api
 
 https://github.com/eduardoboucault/projetoreact-boucault
 
-https://github.com/eduardoboucault/labecommerce-backend
-
-  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
   
 
 
